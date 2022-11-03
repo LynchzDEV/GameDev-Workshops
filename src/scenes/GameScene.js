@@ -14,7 +14,7 @@ class GameScene extends Phaser.Scene {
         this.load.spritesheet('ermine','src/image/objectClass/playerErmine.png', 
         {frameWidth: 500, frameHeight: 300}); //spritesheet
         this.load.image('bullet','src/image/objectClass/Bullet.png'); 
-        
+        // test
     }
 
     create() {
